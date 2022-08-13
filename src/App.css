@@ -1,0 +1,21 @@
+.btn-sub {
+    padding:15px 25px;
+    margin-top: 10px;
+    border-radius: 50px;
+    font-size: 18px;
+    font-weight: bold;
+      width:auto;
+      background:#1abc9c;
+      border:none;
+      color:white;
+      cursor:pointer;
+      display:inline-block;
+    -webkit-transition:0.2s ease all;
+         -moz-transition:0.2s ease all;
+          -ms-transition:0.2s ease all;
+           -o-transition:0.2s ease all;
+              transition:0.2s ease all;
+  }
+  .btn-sub:hover {
+    opacity:0.8;
+  }
